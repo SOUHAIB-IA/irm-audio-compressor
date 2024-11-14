@@ -27,11 +27,6 @@ The **IRM Audio Compression Project** is a custom audio encoding and playback to
    cd irm-audio-compression
    ```
 
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. **Run the Script**:
